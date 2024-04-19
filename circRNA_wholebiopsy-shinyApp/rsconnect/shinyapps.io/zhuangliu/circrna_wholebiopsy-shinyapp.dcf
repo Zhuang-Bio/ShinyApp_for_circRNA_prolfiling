@@ -1,0 +1,11 @@
+name: circrna_wholebiopsy-shinyapp
+title:
+username:
+account: zhuangliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4238378
+bundleId: 4687593
+url: https://zhuangliu.shinyapps.io/circrna_wholebiopsy-shinyapp/
+when: 1623071782.12992
+lastSyncTime: 1623071782.12993
